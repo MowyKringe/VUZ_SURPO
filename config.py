@@ -1,7 +1,9 @@
 APP_NAME = "MyApp"
 APP_VERSION = "1.0"
-DEBUG = False
+DEBUG = True
 MAX_CONNECTIONS = 500
 DB_HOST = "localhost"
 DB_PORT = 5432
 DB_NAME = "app_db"
+UI_THEME = "dark"
+UI_LANGUAGE = "ru"
